@@ -17,7 +17,8 @@ The dataset contains information about data science jobs, salaries, experience l
 - Top 10 Highest Paying Data Jobs
 
 ## Dashboard
-A Power BI dashboard was created to visualize the job market trends.
+
+![Dashboard](dashboard.png)
 
 ## Project Structure
 
@@ -31,3 +32,4 @@ job-market-data-analyzer/
 │
 └── dashboard/
     └── job_market_dashboard.pbix
+
